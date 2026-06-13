@@ -1,0 +1,35 @@
+﻿**********************
+Windows PowerShell 脚本开始
+开始时间: 20260528210227
+用户名: DESKTOP-G3TQ9A3\Summer gone
+RunAs 用户: DESKTOP-G3TQ9A3\Summer gone
+配置名称: 
+计算机: DESKTOP-G3TQ9A3 (Microsoft Windows NT 10.0.26200.0)
+主机应用程序: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+进程 ID: 3048
+PSVersion: 5.1.26100.8521
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.8521
+BuildVersion: 10.0.26100.8521
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+== Scale sensitivity: medium small/medium/large core algorithms ==
+C:\Users\Summer gone\anaconda3\python.exe: Error while finding module specification for 'ServiceComputing.scripts.run_pa
+per_experiments' (ModuleNotFoundError: No module named 'ServiceComputing')
+== Hard robustness: hard small/medium/large core algorithms ==
+C:\Users\Summer gone\anaconda3\python.exe: Error while finding module specification for 'ServiceComputing.scripts.run_pa
+per_experiments' (ModuleNotFoundError: No module named 'ServiceComputing')
+== Best stochastic checkpoint evaluation ==
+C:\Users\Summer gone\anaconda3\python.exe: Error while finding module specification for 'ServiceComputing.scripts.evalua
+te_best_checkpoints' (ModuleNotFoundError: No module named 'ServiceComputing')
+== Summarize and plot ==
+C:\Users\Summer gone\anaconda3\python.exe: Error while finding module specification for 'ServiceComputing.scripts.summar
+ize_service_results' (ModuleNotFoundError: No module named 'ServiceComputing')
+
+**********************
+Windows PowerShell 脚本结束
+结束时间: 20260528210228
+**********************
