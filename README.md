@@ -469,8 +469,8 @@ If you use this code, please cite:
 ```bibtex
 @article{service_semantic_rl_2026,
   title   = {Service-Semantic Reinforcement Learning for Service-Chain Scheduling in Air--Sea--Underwater Edge Networks},
-  author  = {Author Name and Collaborators},
-  journal = {Under Review},
+  author  = {Shengchao Zhu, Guangjie Han, Chuan Lin, and Yuan Liu},
+  journal = {Under Review IEEE TON},
   year    = {2026}
 }
 ```
